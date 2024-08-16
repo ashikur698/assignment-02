@@ -652,13 +652,6 @@ footer {
 
 /* Mobile Responsive */
 @media screen and (max-width: 576px) {
-  /* First Part */
-  /* .navigation{
-    display: flex;
-  }
-  .links{
-    display: none;
-  } */
   .header {
     display: flex;
     flex-direction: column;
@@ -758,12 +751,11 @@ header .hamburger {
     margin: 8px 16px;
   }
 
+  
+
   .part1 {
     display: flex;
     flex-direction: column;
-    /* gap: 20px;
-    padding-top: 20px; */
-    /* align-items: center; */
   }
 
   .full {
